@@ -4,7 +4,7 @@
   object-fit: cover;
   /* object-position: center; */
   overflow: hidden;
-/*   height:80vh; */
+  height:80vh;
   width: 100%;
 }
 
